@@ -1,6 +1,6 @@
 # Pen-Based-Recognition-of-Handwritten-Digits
 #### Boosting
-Use GradientBoosting classifier to classify test set samples. There are 2 important hyperparameters in GradientBoosting, i.e., the number of estimators, and
+Use GradientBoosting classifier to classify test set samples. There are 2 important hyperparameters in GradientBoosting: the number of estimators, and
 learning rate
 
 #### Bagging
